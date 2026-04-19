@@ -2,5 +2,5 @@
 
 (authorizations
  (version 0)
- (("9E53FC33B8328C745E7B31F70226C10D7877B741"
-   (name "brennan"))))
+ (("9E53FC33B8328C745E7B31F70226C10D7877B741" (name "brennan"))
+  ("3D44140848F7C50FA1C9889AE1B0E02962C1D611" (name "Harold Ollivier"))))
